@@ -1,0 +1,19 @@
+{
+  "name": "پگو | pego",
+  "short_name": "pego",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#FAF6EF",
+  "theme_color": "#FF636C",
+  "icons": [
+    {
+      "src": "assets/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
